@@ -1,9 +1,3 @@
-Here is a **much more professional README** you can use for your repository
-Test-Webseite.
-
-It looks good on GitHub, includes badges, structure, deployment instructions, and is written like a real project.
-
----
 
 # 🌐 Test-Webseite
 
